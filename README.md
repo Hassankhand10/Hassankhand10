@@ -31,7 +31,7 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 
 ---
 
-## 💻 Full-Stack Development \& Architecture
+##  Full-Stack Development \& Architecture
 
 * **Full-Stack Application Delivery:** Managed the full development lifecycle (design, develop, deploy) for multiple client applications using an optimized, rapid development cycle.
 * **High-Performance APIs:** Developed optimized **REST APIs** in **Node.js/Express** with modular architecture, *improving backend query efficiency*.
