@@ -72,10 +72,6 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Productive Time" />
-</p>
 
 ---
 
