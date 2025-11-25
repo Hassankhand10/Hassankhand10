@@ -95,12 +95,6 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Most Commit Language" />
-</p>
-
-
 ---
 
 ## System Design & Architecture
