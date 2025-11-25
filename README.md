@@ -55,7 +55,6 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-
 ## My GitHub Stats
 
 > **Note:** Stats only show public repositories. Private repositories are not included for privacy reasons.
@@ -65,7 +64,7 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Hassankhand10&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Hassankhand10&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 GitHub Profile Summary Cards
@@ -83,8 +82,6 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Productive Time" />
 </p>
-
-
 ---
 
 ## System Design & Architecture
