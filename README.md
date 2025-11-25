@@ -8,7 +8,35 @@
 
 ## What I Do
 
-I'm a **Full-Stack Developer** who builds scalable platforms and real-time web applications. I specialize in developing live classroom management systems with multi-platform video conferencing integration (Zoom, RumbleTalk, Agora), real-time interactive whiteboards with collaborative features, and live quiz systems with instant answer validation. I integrate AI-powered solutions using OpenAI GPT-3.5/GPT-4 for automated essay evaluation and intelligent answer checking. I also develop comprehensive WhatsApp messaging systems using Twilio and WHAPI Cloud for seamless communication, build interactive video learning platforms with H5P integration, and create real-time analytics dashboards for student performance tracking. On the backend, I architect scalable systems with 100+ Firebase Cloud Functions, Express.js REST APIs, and implement automated cron jobs for scheduled tasks. I also develop cross-platform mobile applications using React Native and Flutter, creating native experiences for both iOS and Android platforms with real-time synchronization and offline capabilities.
+A skilled **Full-Stack Developer** specializing in architecting and deploying **scalable Real-Time Platforms** and **Educational Technology (EdTech) Systems**. Proven ability to integrate AI, manage complex communication infrastructure, and deliver high-performance cross-platform applications.
+
+---
+
+## Key Project Achievements
+
+### **Real-Time \& Educational Systems**
+
+* **Real-Time Platform Development:** Developed a scalable learning platform using **Angular 9**, **Firebase**, and **Express.js**, providing a dynamic and low-latency environment.
+* **AI-Powered Grading:** Built AI assignment grading using **GPT-4** and Levenshtein evaluation, ***reducing teacher grading time by over 60\%***.
+* **Live Collaboration:** Integrated **Zoom** and **RumbleTalk** with collaborative whiteboards, boosting interactive session engagement.
+* **AI-Integrated Chat:** Developed a high-availability chat system integrated with **OpenAI** for instant, AI-powered student query resolution, ***decreasing reliance on staff for routine questions***.
+* **Gamified Learning:** Implemented a gamified student performance system with coin rewards and progress evaluation, ***significantly boosting student motivation***.
+
+### **Scalability \& Infrastructure**
+
+* **Automated WhatsApp:** Developed robust communication via **Twilio** and **Whapi Cloud** for automated notifications and media support, ensuring reliable communication.
+* **Advanced Analytics:** Created real-time student monitoring and performance tracking dashboards using **Firebase Realtime Database**, aiding personalized learning paths.
+* **Payment \& Billing:** Integrated complete systems using **Zoho CRM**, **Allied Bank API**, and **Blinq** for accurate subscription and invoice management.
+* **Cross-Platform Delivery:** Developed fully responsive Web + Mobile apps using **React**, **React Native**, and **Tailwind CSS**, ensuring a consistent user experience across all devices.
+
+---
+
+## 💻 Full-Stack Development \& Architecture
+
+* **Full-Stack Application Delivery:** Managed the full development lifecycle (design, develop, deploy) for multiple client applications using an optimized, rapid development cycle.
+* **High-Performance APIs:** Developed optimized **REST APIs** in **Node.js/Express** with modular architecture, *improving backend query efficiency*.
+* **Security \& Access Control:** Implemented secure user authentication and granular Role-Based Access Control (RBAC) using **Firebase Auth** and **Firestore** security rules.
+* **Critical Service Integration:** Integrated essential services including push notifications via **FCM**, cloud media via **GCP Cloud Storage**, and tracking via **Firebase Analytics**, enabling data-driven optimization.
 
 ---
 
