@@ -59,10 +59,7 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
 ### 📊 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassankhand10&theme=github-dark&hide_border=true&area=true&include_all_commits=true)
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hassankhand10&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ### 📈 GitHub Profile Summary Cards
 
