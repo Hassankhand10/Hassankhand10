@@ -58,10 +58,32 @@ I'm a **Full-Stack Developer** who builds scalable platforms and real-time web a
 
 ## My GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassankhand10&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassankhand10&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117"/>
-</div>
+> **Note:** Stats only show public repositories. Private repositories are not included for privacy reasons.
+
+### 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassankhand10&theme=github-dark&hide_border=true&area=true)
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Hassankhand10&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Productive Time" />
+</p>
+
 
 ---
 
