@@ -1,42 +1,92 @@
-# Hi there! 👋 I am Hassan Khan
+<div align="center">
+
+# Hi there! 👋 I'm Hassan Khan
+
+### Full Stack Developer · Web, Mobile & AI Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-khan-914b6920a/)
+[![Email](https://img.shields.io/badge/Email-hassankhand10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hassankhand10@gmail.com)
+[![Location](https://img.shields.io/badge/Karachi,_Pakistan-64748b?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+**4+ years** shipping production-grade web, mobile & AI systems across **EdTech · SaaS · IoT**
+
+</div>
+
+---
 
 ## About Me
 
 - 🔴 Graduated with **Bachelor of Science in Computer Science (BSCS)** from **PAF-KIET Karachi**
 - ✅ My expertise mainly lies in **solving real-world problems using web implementations**
 - ⬛ I am currently spending time learning various **web and mobile app technologies, system design, DevOps (Docker, CI/CD pipelines, cloud infrastructure) and cloud computing**
+- 🚀 Full Stack Developer at **SleekHive Technologies** — building real-time EdTech platforms used daily across multiple school branches
+- 🤖 Passionate about **LLM-driven platforms**, real-time streaming, and AI-assisted development workflows
+
+---
 
 ## What I Do
 
 A skilled **Full-Stack Developer** specializing in architecting and deploying **scalable Real-Time Platforms** and **Educational Technology (EdTech) Systems**. Proven ability to integrate AI, manage complex communication infrastructure, and deliver high-performance cross-platform applications.
 
+Strong across **React · React Native · Next.js · NestJS · PostgreSQL · Redis**, with hands-on experience building LLM platforms (**GPT-4, Gemini, Groq**), real-time streaming (**WebRTC, Socket.io, Cloudflare Stream**), and cloud infrastructure (**AWS, GCP, Cloudflare, Docker, CI/CD**).
+
+---
+
+## Impact at a Glance
+
+| Metric | Result |
+| --- | --- |
+| AI Grading Time | **60%+ reduction** via GPT-4 & semantic evaluation |
+| Firebase RTDB Costs | **$2,500 → $1,100/mo** (~56% savings) |
+| Twilio / WhatsApp Costs | **$2,000 → $800/mo** (~60% savings) |
+| Experience | **4+ years** full-stack production systems |
+| Open Source Projects | **3** full-stack platforms (Voxflow, VentureMind, NEXUS) |
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Voxflow**](https://github.com/Hassankhand10/voxflow) | Async video interview platform — recruiters create flows, share a link, collect video/audio/text responses with AI follow-ups | Next.js 16 · NestJS · PostgreSQL · Prisma · Redis · OpenAI |
+| [**VentureMind AI**](https://github.com/Hassankhand10/AI-VentureMind) | AI SaaS for founders — generates market analysis, SWOT, personas, financials, MVP roadmap & pitch deck | Next.js 15 · NestJS · BullMQ · Gemini · Groq · Turborepo |
+| [**NEXUS**](https://github.com/Hassankhand10/nexus) | Multi-tenant AI platform with RAG pipeline, 3-layer memory, connector framework & 15+ dashboard pages | NestJS · Next.js 15 · pgvector · Redis · BullMQ · Docker |
+
 ---
 
 ## Key Project Achievements
 
-### **Real-Time \& Educational Systems**
+### **Real-Time & Educational Systems**
 
 * **Real-Time Platform Development:** Developed a scalable learning platform using **Angular 9**, **Firebase**, and **Express.js**, providing a dynamic and low-latency environment.
-* **AI-Powered Grading:** Built AI assignment grading using **GPT-4** and Levenshtein evaluation, ***reducing teacher grading time by over 60\%***.
+* **Video Interview Platform:** Architected a full-stack video interview evaluation system (**React, TypeScript, Firebase, AWS S3**) with drag-and-drop flow builder, multi-step video/audio forms, and bulk XLSX export.
+* **AI-Powered Grading:** Built AI assignment grading using **GPT-4** and Levenshtein evaluation, ***reducing teacher grading time by over 60%***.
 * **Live Collaboration:** Integrated **Zoom** and **RumbleTalk** with collaborative whiteboards, boosting interactive session engagement.
+* **Live Streaming Pipeline:** Engineered a custom low-latency pipeline using **Cloudflare Stream, WebRTC, and Socket.io** with in-session PDF/PPT sharing.
 * **AI-Integrated Chat:** Developed a high-availability chat system integrated with **OpenAI** for instant, AI-powered student query resolution, ***decreasing reliance on staff for routine questions***.
 * **Gamified Learning:** Implemented a gamified student performance system with coin rewards and progress evaluation, ***significantly boosting student motivation***.
+* **NFC Canteen System:** Built an NFC-enabled multi-branch canteen management system (**React, Supabase, Web NFC**) with wallet limits and order tracking.
 
-### **Scalability \& Infrastructure**
+### **Scalability & Infrastructure**
 
 * **Automated WhatsApp:** Developed robust communication via **Twilio** and **Whapi Cloud** for automated notifications and media support, ensuring reliable communication.
 * **Advanced Analytics:** Created real-time student monitoring and performance tracking dashboards using **Firebase Realtime Database**, aiding personalized learning paths.
-* **Payment \& Billing:** Integrated complete systems using **Zoho CRM**, **Allied Bank API**, and **Blinq** for accurate subscription and invoice management.
+* **Payment & Billing:** Integrated complete systems using **Zoho CRM**, **Allied Bank API**, and **Blinq** for accurate subscription and invoice management.
+* **Firebase Cost Optimization:** Re-architected RTDB listener topology — reducing spend from **$2,500 → $1,100/mo (~56% savings)** with zero impact on live analytics.
+* **Twilio Cost Optimization:** Re-engineered messaging workflows — cutting spend from **$2,000 → $800/mo (~60% savings)** without impacting reliability.
 * **Cross-Platform Delivery:** Developed fully responsive Web + Mobile apps using **React**, **React Native**, and **Tailwind CSS**, ensuring a consistent user experience across all devices.
+* **DevOps & Deployment:** Owned end-to-end infrastructure across **AWS, GCP, Cloudflare**, with Docker containerization and CI/CD pipelines.
 
 ---
 
-##  Full-Stack Development \& Architecture
+## Full-Stack Development & Architecture
 
 * **Full-Stack Application Delivery:** Managed the full development lifecycle (design, develop, deploy) for multiple client applications using an optimized, rapid development cycle.
-* **High-Performance APIs:** Developed optimized **REST APIs** in **Node.js/Express** with modular architecture, *improving backend query efficiency*.
-* **Security \& Access Control:** Implemented secure user authentication and granular Role-Based Access Control (RBAC) using **Firebase Auth** and **Firestore** security rules.
+* **High-Performance APIs:** Developed optimized **REST APIs** in **Node.js/Express** and **NestJS** with modular architecture, *improving backend query efficiency*.
+* **Security & Access Control:** Implemented secure user authentication and granular Role-Based Access Control (RBAC) using **Firebase Auth**, **JWT**, and **Firestore** security rules.
 * **Critical Service Integration:** Integrated essential services including push notifications via **FCM**, cloud media via **GCP Cloud Storage**, and tracking via **Firebase Analytics**, enabling data-driven optimization.
+* **Third-Party Connectors:** Built integration frameworks for **Firebase, PostgreSQL, WhatsApp (Twilio), Gmail, Slack, Google Drive**, and more.
+* **AI-Assisted Development:** Embedded **Cursor, Claude Code, and GitHub Copilot** into daily engineering workflows for faster, higher-quality delivery.
 
 ---
 
@@ -67,6 +117,8 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
@@ -81,13 +133,15 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI_Assisted-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
 ### 📊 Contribution Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassankhand10&theme=github-dark&hide_border=true&area=true&include_all_commits=true)
-
-
 
 ### 📈 GitHub Profile Summary Cards
 
@@ -106,6 +160,7 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Message Queue](https://img.shields.io/badge/Message_Queue-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![RAG Pipeline](https://img.shields.io/badge/RAG_Pipeline-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -114,6 +169,7 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -128,4 +184,12 @@ A skilled **Full-Stack Developer** specializing in architecting and deploying **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-khan-914b6920a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassankhand10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassankhand10)
 
+---
+
+<div align="center">
+
+*"Building systems that scale, perform, and make a real difference."*
+
+</div>
