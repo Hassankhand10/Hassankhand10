@@ -143,10 +143,15 @@ Strong across **React · React Native · Next.js · NestJS · PostgreSQL · Redi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassankhand10&theme=github-dark&hide_border=true&area=true&include_all_commits=true)
 
-### 📈 GitHub Profile Summary Cards
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassankhand10&theme=github_dark&hide_border=true" alt="Profile Details" />
+  <img src="https://github-readme-stats-forked.vercel.app/api?username=Hassankhand10&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Hassankhand10&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-forked.vercel.app/api/top-langs/?username=Hassankhand10&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
