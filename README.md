@@ -40,7 +40,7 @@ Strong across **React · React Native · Next.js · NestJS · PostgreSQL · Redi
 | Firebase RTDB Costs | **$2,500 → $1,100/mo** (~56% savings) |
 | Twilio / WhatsApp Costs | **$2,000 → $800/mo** (~60% savings) |
 | Experience | **4+ years** full-stack production systems |
-| Open Source Projects | **3** full-stack platforms (Voxflow, VentureMind, NEXUS) |
+| Open Source Projects | **4** full-stack platforms (EduVerse AI, Voxflow, VentureMind, NEXUS) |
 
 ---
 
@@ -48,6 +48,7 @@ Strong across **React · React Native · Next.js · NestJS · PostgreSQL · Redi
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**EduVerse AI**](https://github.com/Hassankhand10/eduverse-ai) | Multi-tenant school SaaS — NestJS API, Next.js admin, React Native mobile with Replay AI, Digital Twin, AI Tutor, fees, attendance & grading | NestJS · Next.js · React Native · Prisma · PostgreSQL · Docker · Turborepo |
 | [**Voxflow**](https://github.com/Hassankhand10/voxflow) | Async video interview platform — recruiters create flows, share a link, collect video/audio/text responses with AI follow-ups | Next.js 16 · NestJS · PostgreSQL · Prisma · Redis · OpenAI |
 | [**VentureMind AI**](https://github.com/Hassankhand10/AI-VentureMind) | AI SaaS for founders — generates market analysis, SWOT, personas, financials, MVP roadmap & pitch deck | Next.js 15 · NestJS · BullMQ · Gemini · Groq · Turborepo |
 | [**NEXUS**](https://github.com/Hassankhand10/nexus) | Multi-tenant AI platform with RAG pipeline, 3-layer memory, connector framework & 15+ dashboard pages | NestJS · Next.js 15 · pgvector · Redis · BullMQ · Docker |
@@ -66,6 +67,7 @@ Strong across **React · React Native · Next.js · NestJS · PostgreSQL · Redi
 * **AI-Integrated Chat:** Developed a high-availability chat system integrated with **OpenAI** for instant, AI-powered student query resolution, ***decreasing reliance on staff for routine questions***.
 * **Gamified Learning:** Implemented a gamified student performance system with coin rewards and progress evaluation, ***significantly boosting student motivation***.
 * **NFC Canteen System:** Built an NFC-enabled multi-branch canteen management system (**React, Supabase, Web NFC**) with wallet limits and order tracking.
+* **EduVerse AI:** Built a full multi-tenant EdTech SaaS (**NestJS, Next.js, React Native, Prisma, PostgreSQL**) with Replay AI, Digital Twin forecasting, AI Tutor, role-based portals, fees, attendance, and grading — demo-ready with Docker Compose.
 
 ### **Scalability & Infrastructure**
 
